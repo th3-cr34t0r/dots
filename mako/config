@@ -1,0 +1,5 @@
+default-timeout=10000
+background-color=#000A05
+text-color=#95c9bc
+border-color=#99ffbb
+border-radius=8,8,8,8
